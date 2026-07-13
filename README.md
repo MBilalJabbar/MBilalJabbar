@@ -1,11 +1,6 @@
 # 💫 About Me:
 Building modern, scalable web applications including business websites, SaaS platforms, admin dashboards, and custom CMS solutions using modern web technologies.<br>Open-source web projects, startup ideas, SaaS products, UI/UX-driven applications, and performance-optimized front-end or full-stack solutions.<br>Scaling applications, advanced DevOps workflows, cloud deployment strategies, and improving application security and performance.<br>Advanced JavaScript frameworks, performance optimization techniques, API architecture, cloud services, and emerging web technologies.<br>Web development, front-end & full-stack solutions, UI/UX design, responsive layouts, WordPress customization, React, Laravel, and project architecture.<br>
 
-
-## 🌐 Socials:
-
-## 🌐 Socials:
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-074555374/)
