@@ -63,7 +63,7 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
 ## ☁ Cloud & Deployment
@@ -87,11 +87,13 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
-
 # 🧠 Skills
 
-### Backend Development
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### Backend Development
 - PHP
 - Laravel
 - REST APIs
@@ -107,8 +109,25 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 - Queue Jobs
 - Scheduled Tasks
 
-### Frontend Development
+### Database
+- MySQL
+- PostgreSQL
+- MongoDB
+- Database Design
+- Query Optimization
+- Eloquent ORM
 
+### CMS
+- WordPress
+- Theme Customization
+- Plugin Customization
+- WooCommerce
+
+</td>
+
+<td valign="top" width="50%">
+
+### Frontend Development
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -121,41 +140,20 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 - AJAX
 - Responsive Web Design
 
-### Database
-
-- MySQL
-- PostgreSQL
-- Database Design
-- Query Optimization
-- Eloquent ORM
-
-### CMS
-
-- WordPress
-- Theme Customization
-- Plugin Customization
-- WooCommerce
-
 ### Cloud & Services
-
 - Firebase
 - Cloudinary
 - SMTP
 - File Storage
 - Email Integration
 
-### DevOps
-
-- Git
-- GitHub
+### DevOps & Software Engineering
+- Git & GitHub
 - Docker
 - Apache
 - Nginx
 - Linux Basics
 - Deployment
-
-### Software Engineering
-
 - Clean Code
 - SOLID Principles
 - MVC Design Pattern
@@ -166,6 +164,9 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 - API Design
 - Agile Development
 
+</td>
+</tr>
+</table>
 ---
 
 # 📊 GitHub Stats
