@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Bilal
 
-### 🚀 Full Stack Web Developer | Laravel | React | Next.js | WordPress
+### 🚀 Full Stack Web Developer | Laravel | React | WordPress
 
 Building modern, scalable, and high-performance web applications including business websites, SaaS platforms, admin dashboards, ERP systems, and custom CMS solutions.
 
