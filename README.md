@@ -91,9 +91,10 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 
 <table>
 <tr>
-<td valign="top" width="50%">
 
-### Backend Development
+<td valign="top" width="33%">
+
+### 💻 Backend
 - PHP
 - Laravel
 - REST APIs
@@ -109,7 +110,24 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 - Queue Jobs
 - Scheduled Tasks
 
-### Database
+</td>
+
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- jQuery
+- AJAX
+- Responsive Design
+
+### 🗄 Database
 - MySQL
 - PostgreSQL
 - MongoDB
@@ -117,43 +135,29 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 - Query Optimization
 - Eloquent ORM
 
-### CMS
-- WordPress
-- Theme Customization
-- Plugin Customization
-- WooCommerce
-
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Bootstrap
-- Tailwind CSS
-- jQuery
-- AJAX
-- Responsive Web Design
-
-### Cloud & Services
-- Firebase
-- Cloudinary
-- SMTP
-- File Storage
-- Email Integration
-
-### DevOps & Software Engineering
+### ☁ DevOps & Tools
 - Git & GitHub
 - Docker
 - Apache
 - Nginx
 - Linux Basics
 - Deployment
+- Firebase
+- Cloudinary
+- SMTP
+- Postman
+
+### ⚙ CMS
+- WordPress
+- WooCommerce
+- Theme Customization
+- Plugin Customization
+
+### 🧠 Software Engineering
 - Clean Code
 - SOLID Principles
 - MVC Design Pattern
@@ -165,6 +169,7 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 - Agile Development
 
 </td>
+
 </tr>
 </table>
 ---
