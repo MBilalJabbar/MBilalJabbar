@@ -89,89 +89,32 @@ I enjoy creating clean architectures, responsive interfaces, RESTful APIs, and s
 ---
 # 🧠 Skills
 
-<table>
-<tr>
+| 💻 Backend | 🎨 Frontend | 🗄 Database |
+|------------|------------|------------|
+| PHP | HTML5 | MySQL |
+| Laravel | CSS3 | PostgreSQL |
+| REST APIs | JavaScript | MongoDB |
+| MVC | TypeScript | Database Design |
+| Sanctum / JWT | React.js | Query Optimization |
+| CRUD | Next.js | Eloquent ORM |
+| SaaS | Tailwind CSS | |
+| ERP | Bootstrap | |
+| Payment Gateway | jQuery | |
+| WebSockets | AJAX | |
 
-<td valign="top" width="33%">
+---
 
-### 💻 Backend
-- PHP
-- Laravel
-- REST APIs
-- MVC Architecture
-- Authentication (Sanctum, JWT)
-- Authorization
-- CRUD Applications
-- SaaS Development
-- ERP Systems
-- Payment Gateway Integration
-- Third-party API Integration
-- WebSockets
-- Queue Jobs
-- Scheduled Tasks
-
-</td>
-
-<td valign="top" width="33%">
-
-### 🎨 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- jQuery
-- AJAX
-- Responsive Design
-
-### 🗄 Database
-- MySQL
-- PostgreSQL
-- MongoDB
-- Database Design
-- Query Optimization
-- Eloquent ORM
-
-</td>
-
-<td valign="top" width="33%">
-
-### ☁ DevOps & Tools
-- Git & GitHub
-- Docker
-- Apache
-- Nginx
-- Linux Basics
-- Deployment
-- Firebase
-- Cloudinary
-- SMTP
-- Postman
-
-### ⚙ CMS
-- WordPress
-- WooCommerce
-- Theme Customization
-- Plugin Customization
-
-### 🧠 Software Engineering
-- Clean Code
-- SOLID Principles
-- MVC Design Pattern
-- Performance Optimization
-- Debugging
-- Problem Solving
-- Software Architecture
-- API Design
-- Agile Development
-
-</td>
-
-</tr>
-</table>
+| ☁ DevOps & Tools | ⚙ CMS | 🧠 Software Engineering |
+|------------------|-------|------------------------|
+| Git & GitHub | WordPress | Clean Code |
+| Docker | WooCommerce | SOLID Principles |
+| Apache | Theme Customization | MVC Pattern |
+| Nginx | Plugin Customization | API Design |
+| Linux | | Performance Optimization |
+| Deployment | | Software Architecture |
+| Firebase | | Agile Development |
+| Cloudinary | | Problem Solving |
+| Postman | | Debugging |
 ---
 
 # 📊 GitHub Stats
